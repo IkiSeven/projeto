@@ -1,0 +1,10 @@
+.bg-img{
+    background-image: url(img/bgimagevg.jpg);
+    background-size: cover;
+}
+
+.bottom-button {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+}

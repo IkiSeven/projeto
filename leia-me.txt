@@ -1,0 +1,5 @@
+O index.php deve ser renomeado para "login.php" ou algo do gênero, não esquecer de mudar os caminhos dentro do código.
+
+O arquivo home.php é a tela inicial, ainda não esta pronto.
+
+O arquivo "processaReg.php" deve registrar as informações do usuario no banco de dados, mas está vazio no momento.
